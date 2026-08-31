@@ -9,7 +9,7 @@ I am a highly motivated Software Developer transitioning from a solid background
 ### 2026 Tech Stack 🚀
 
 - **Languages:** Python (Advanced), SQL, Javascript.
-- **Frameworks:** FastAPI, Django, Django Rest Framework.
+- **Frameworks:** FastAPI, Django, Django Rest Framework, Node, Next.
 - **AI & Data:** LangChain, RAG (Retrieval-Augmented Generation), ChromaDB.
 - **DevOps & Cloud:** Docker, Kubernetes (K8s), AWS (EC2, S3), CI/CD Pipelines.
 - **Tools:** Poetry, Pytest, Git, Scrum/Agile.
